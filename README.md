@@ -23,7 +23,8 @@ A Python-based CLI tool to analyze inflation trends using **World Bank CPI (Cons
 
 ## 📁 Dataset Used
     World Bank , Inflation, consumer prices (annual %).
-    Accessed via: https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG   
+    Accessed via:
+  https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG   
      
 This project uses the following World Bank datasets:
 
